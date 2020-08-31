@@ -1,7 +1,8 @@
 # How to prepare develop environment for NASM
 \$ brew install nasm  
-# Just call ./build.sh
-\$ ./build.sh  
+# Just call \$ ./build.sh or \$ make
+\$ ./build.sh    
+(or   \$ make  )  
 **Then execute it.**  
 \$ ./hello  
 
@@ -28,3 +29,10 @@ link objects into execute file
 clean all built output  
 ## build.sh  
 This script will run clean.sh -> compile.sh -> build.sh  
+
+# Makefile
+## make clean
+clean all built result    
+## make 
+make execute file  
+
