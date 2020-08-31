@@ -8,7 +8,7 @@
 Hello, World!  
 **Above message is output**
 
-# Futher information  
+# Further information  
 After you complete your work on .asm you need to compile and link it.  
 ## compile
 \$ nasm -f macho64 hello.asm    
