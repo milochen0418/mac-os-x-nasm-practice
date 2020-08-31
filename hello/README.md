@@ -1,3 +1,5 @@
+# How to prepare develop environment for NASM
+\$ brew install nasm  
 # Just call ./build.sh
 \$ ./build.sh  
 **Then execute it.**  
